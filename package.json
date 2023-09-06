@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "browserify-cipher": "^1.0.1",
+      "node-fetch": "^3.3.2",
+      "nostr-tools": "^1.14.2",
+      "qrcode-terminal": "^0.12.0",
+      "websocket-polyfill": "^0.0.3"
+    }
+  }
